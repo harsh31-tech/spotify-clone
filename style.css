@@ -528,8 +528,8 @@ h2{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 1.15rem;
-    margin-top: 1.25rem;
+    height: 2rem;
+    margin-top: 0.6rem;
     background-color: #1F1F1F;
     
 }
@@ -555,7 +555,7 @@ h2{
     background-color: #1F1F1F;
 }
 .less-info{
-    margin-top: 0.25rem;
+    opacity: 0.6;
     background-color: #1F1F1F;
     font-size: 0.75rem;
 }
@@ -563,5 +563,6 @@ h2{
     background-color: #1F1F1F;
 }
 .less-info a:hover{
+    opacity: 0.9;
     text-decoration: underline ;
 }
