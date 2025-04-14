@@ -28,7 +28,7 @@
     position: absolute;
     top: 82px;
     margin-right: 0.5rem;
-    margin-left: 0.75rem;
+    margin-left: 1.25rem;
     
 }
 
@@ -70,6 +70,7 @@
     align-items: center;
     position: fixed;
     left: -1px;
+    margin-left: 1.25rem;
 }
 .nav-icon:hover{
     cursor: pointer;
