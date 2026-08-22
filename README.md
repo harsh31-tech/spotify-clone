@@ -2,6 +2,8 @@
 
 My first coding project — a static clone of the Spotify web player UI, built using only **HTML and CSS**.
 
+![ Spotify Clone ](./assets/Screenshot.png)
+
 ## About
 
 This was my starting point for learning web development. The goal was simple: take a real, complex, well-known UI (Spotify's web player) and try to rebuild it pixel-by-pixel using just HTML and CSS — no frameworks, no JavaScript.
