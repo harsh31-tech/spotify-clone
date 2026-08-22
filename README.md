@@ -44,12 +44,6 @@ cd spotify-clone
 open index.html
 ```
 
-## What's Next
-
-- Add JavaScript to make the search bar, play/pause button, and progress/volume sliders actually work
-- Make the layout responsive for smaller screens
-- Hook up real audio playback
-
 ---
 
 Built as my first project while learning to code 🎧
